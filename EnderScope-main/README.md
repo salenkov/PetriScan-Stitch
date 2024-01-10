@@ -113,9 +113,4 @@ intended to be a tight fit and you may need to widen the hole with a drill.
 
 - Clip in place with binder clips (be careful where you position the binder clips. Make sure they will not crash into the aluminium frame of the printer when it homes).
 
-### Congratulations you are now ready to start using the EnderScope! :-)
-
-# How to Use the EnderScope
-
-# Licence and Collaboration
 
